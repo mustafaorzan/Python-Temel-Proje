@@ -37,4 +37,4 @@ CEVAP:
       (l[i])=(l[i])[::-1]
     print(l)
     
-# Tüm cevaplar tamamen alıntıdır. 
+# NOT: Tüm cevaplar tamamen alıntıdır. 
